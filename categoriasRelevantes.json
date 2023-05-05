@@ -1,0 +1,28 @@
+{
+    "categoriasRelevantes": [
+      {
+        "id": 1,
+        "categoria": "CÁMARAS DE FOTOGRAFÍA",
+        "foto":  "./img/card1.jpg",
+        "enlace": "camaras.html"
+      },
+      {
+        "id": 2,
+        "categoria": "OBJETIVOS",
+        "foto":  "./img/card2.jpg",
+        "enlace": "objetivos.html"
+      },
+      {
+        "id": 3,
+        "categoria": "ILUMINACIÓN Y ESTUDIO",
+        "foto":  "./img/card3.jpg",
+        "enlace": "flash.html"
+      },
+      {
+        "id": 4,
+        "categoria": "TRÍPODES",
+        "foto":  "./img/card4.jpg",
+        "enlace": "tripodes.html"
+      }
+    ]
+}

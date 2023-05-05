@@ -1,0 +1,60 @@
+{
+    "tripodes": [
+      {
+        "id": 1,
+        "modelo": "Trípode Manfrotto 290 light con rótula",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 116,
+        "foto":  "./img/tripodes/manfrotto290.jpg"
+      },
+      {
+        "id": 2,
+        "modelo": "Trípode Carbono 635 Fast Single",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 786.50,
+        "foto":  "./img/tripodes/manfrotto635.jpg"
+      },
+      {
+        "id": 3,
+        "modelo": "Trípode Manfrotto MK190XPRO",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 198.46,
+        "foto":  "./img/tripodes/manfrottomk190xpro.jpg"
+      },
+      {
+        "id": 4,
+        "modelo": "Trípode Manfrotto Fluido 509 Fast Twin de Carbono",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 2190.99,
+        "foto":  "./img/tripodes/manfrotto509.jpg"
+      },
+      {
+        "id": 5,
+        "modelo": "Trípode Vanguard VEO 235CB",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 133.28,
+        "foto":  "./img/tripodes/vanguardveo235.jpg"
+      },
+      {
+        "id": 6,
+        "modelo": "Trípode AmazonBasic",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 20.99,
+        "foto":  "./img/tripodes/amazontripode.jpg"
+      },
+      {
+        "id": 7,
+        "modelo": "Trípode Manfrotto MTPIXIB",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 17.39,
+        "foto":  "./img/tripodes/manfrottomtpixib.jpg"
+      },
+      {
+        "id": 8,
+        "modelo": "Trípode Manfrotto Compact Advanced",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 68.56,
+        "foto":  "./img/tripodes/manfrottoadvanced3.jpg"
+      }
+    ]
+}

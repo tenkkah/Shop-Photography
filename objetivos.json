@@ -1,0 +1,60 @@
+{
+    "objetivos": [
+      {
+        "id": 1,
+        "modelo": "Sony 55-200mm",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 279.99,
+        "foto":  "./img/objetivos/sony55-200.jpeg"
+      },
+      {
+        "id": 2,
+        "modelo": "Sony 18-105mm",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 449.99,
+        "foto":  "./img/objetivos/sony18-105.jpeg"
+      },
+      {
+        "id": 3,
+        "modelo": "Canon 55-200mm",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 286.89,
+        "foto":  "./img/objetivos/canon55-200.jpeg"
+      },
+      {
+        "id": 4,
+        "modelo": "Canon 14-35mm",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 1829.99,
+        "foto":  "./img/objetivos/canon14-35.jpeg"
+      },
+      {
+        "id": 5,
+        "modelo": "Nikon 18mm",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 864.99,
+        "foto":  "./img/objetivos/nikon18mm.jpeg"
+      },
+      {
+        "id": 6,
+        "modelo": "Canon 35mm",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 399.99,
+        "foto":  "./img/objetivos/canon35.jpeg"
+      },
+      {
+        "id": 7,
+        "modelo": "NIkon 18-140",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 269.99,
+        "foto":  "./img/objetivos/nikon18-140.jpg"
+      },
+      {
+        "id": 8,
+        "modelo": "Nikon 24-70mm",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 1299.99,
+        "foto":  "./img/objetivos/nikon24-70.jpeg"
+      }
+    ]
+}

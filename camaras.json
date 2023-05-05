@@ -1,0 +1,68 @@
+{
+    "camaras": [
+      {
+        "id": 1,
+        "modelo": "Sony A6400",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 495.99,
+        "foto":  "./img/camaras/sonyA6400.jpg",
+        "cantidad": ""
+      },
+      {
+        "id": 2,
+        "modelo": "Nikon D3400",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 479.99,
+        "foto":  "./img/camaras/nikonD3400det.jpg",
+        "cantidad": ""
+      },
+      {
+        "id": 3,
+        "modelo": "Canon EOS 5D MARK III",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 2329.99,
+        "foto":  "./img/camaras/canonEOS5DMARKIII.jpg",
+        "cantidad": ""
+      },
+      {
+        "id": 4,
+        "modelo": "Sony Alpa 7II",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 944.71,
+        "foto":  "./img/camaras/sonyalfaII.jpg",
+        "cantidad": ""
+      },
+      {
+        "id": 5,
+        "modelo": "Canon EOS 4000D",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 447.90,
+        "foto":  "./img/camaras/canonEOS4000D.jpg",
+        "cantidad": ""
+      },
+      {
+        "id": 6,
+        "modelo": "Canon EOS 5D MARK IV",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 2689.99,
+        "foto":  "./img/camaras/canonEOS5DMARKIV.jpg",
+        "cantidad": ""
+      },
+      {
+        "id": 7,
+        "modelo": "Canon EOS 60D",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 369.99,
+        "foto":  "./img/camaras/canonEOS60D.gif",
+        "cantidad": ""
+      },
+      {
+        "id": 8,
+        "modelo": "Nikon D500",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 1441.98,
+        "foto":  "./img/camaras/nikond500.jpg",
+        "cantidad": ""
+      }
+    ]
+}

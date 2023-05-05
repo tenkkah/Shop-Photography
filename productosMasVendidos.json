@@ -1,0 +1,46 @@
+{
+    "productosMasVendidos": [
+      {
+        "id": 1,
+        "modelo": "CÁMARA RÉFLEX NIKON D3400",
+        "precio": 349.99,
+        "foto":  "./img/camaras/nikonD3400det.jpg",
+        "enlace": "./camaras.html"
+      },
+      {
+        "id": 2,
+        "modelo": "CÁMARA SONY ALPHA 7 II",
+        "precio": 944.71,
+        "foto":  "./img/product2.jpg",
+        "enlace": "./camaras.html"
+      },
+      {
+        "id": 3,
+        "modelo": "BARRA LED DE COLORES",
+        "precio": 119.99,
+        "foto":  "./img/iluminacion/barraled.jpg",
+        "enlace": "./flash.html"
+      },
+      {
+        "id": 4,
+        "modelo": "OBJETIVO SONY 16-35MM",
+        "precio": 2399.99,
+        "foto":  "./img/objetivos/sony16-35.jpg",
+        "enlace": "./objetivos.html"
+      },
+      {
+        "id": 5,
+        "modelo": "OBJETIVO CANON 50MM",
+        "precio": 149.99,
+        "foto":  "./img/objetivos/canon50mm.webp",
+        "enlace": "./objetivos.html"
+      },
+      {
+        "id": 6,
+        "modelo": "TRÍPODE MANFROTTO FLUIDO 509 FAST TWIN DE CARBONO",
+        "precio": 2190.99,
+        "foto":  "./img/tripodes/manfrotto509.jpg",
+        "enlace": "./flash.html"
+      }
+    ]
+}

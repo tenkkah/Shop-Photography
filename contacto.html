@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./css/estilos.css">
+  <script src="./js/contacto.js"></script>
+  <script src="./jquery.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+  <link href="lib/icomoon/icomoon.css" rel="stylesheet">
+  <title>Document</title>
+</head>
+
+<body>
+     <!--NAVBAR-->
+  <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">FotoMe</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav m-auto my-2 my-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="../index.html">Home</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button"
+              aria-expanded="false">Productos</a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="../camaras.html">Camaras</a></li>
+              <li><a class="dropdown-item" href="../objetivos.html">Objetivos</a></li>
+              <li><a class="dropdown-item" href="../flash.html">Iluminación y flashes</a></li>
+              <li><a class="dropdown-item" href="../tripodes.html">Trípodes</a></li>
+            </ul>
+          </li>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="./contacto.html">CONTACTO</a>
+          </li>
+        </ul>
+        <a class="btnCarrito" href="carrito.html"><i class="fas fa-shopping-cart"></i></a>
+        <button class="btn"><a href="singin.html"> Iniciar Sesión/Registrarse</a></button>
+        <form class="d-flex">
+          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" id="buscador">
+          <button class="btn0" type="submit">Search</button>
+        </form>
+      </div>
+    </div>
+  </nav>
+
+<div class="wrapper bg-white">
+  <div class="h2 text-center">Contacta con nosotros</div>
+  <div class="h4 text-muted text-center pt-2">Mándanos tu consulta o comentario</div>
+  <form class="pt-3">
+      <div class="form-group py-2">
+          <div class="input-field"><input type="text" placeholder="Introduce tu nombre" id="nombreUsuario"> </div>
+      </div>
+      <div class="form-group py-1 pb-2">
+          <div class="input-field"><input type="email" placeholder="Introduce tu correo electronico" id="emailUsuario"> <button class="btn bg-white text-muted"> </button> </div>
+      </div>
+      <div class="d-flex align-items-start"> <br>
+         <textarea class="input-field" name="mensaje" id="consulta" cols="60" rows="10" placeholder="Introduce tu consulta o mensaje"></textarea>
+      </div> 
+      <button type="button" id="btnMensaje" class="btn btn-block text-center my-3">Enviar consulta</button>
+  </form>
+</div>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"
+    integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
+    integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>

@@ -1,0 +1,62 @@
+{
+    "iluminacion": [
+      {
+        "id": 1,
+        "modelo": "Reflector de luz plegable",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 19.99,
+        "foto":  "./img/iluminacion/reflector.jpg"
+      },
+      {
+        "id": 2,
+        "modelo": "Nikon Godox V860III-N",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 224.99,
+        "foto":  "./img/iluminacion/flashnikon.jpg"
+      },
+      {
+        "id": 3,
+        "modelo": "Barra led de colores",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 119.99,
+        "foto":  "./img/iluminacion/barraled.jpg"
+      },
+      {
+        "id": 4,
+        "modelo": "Kit Iluminación fotografía",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 36.99,
+        "foto":  "./img/iluminacion/lucesindicadoras.jpg"
+      },
+      {
+        "id": 5,
+        "modelo": "Nikon Godox TT600",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 389.90,
+        "foto":  "./img/iluminacion/flashnikongovox.jpg"
+      },
+      {
+        "id": 6,
+        "modelo": "Metz Mecablitz",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 2689.99,
+        "foto":  "./img/iluminacion/flashmetz.webp"
+      },
+      {
+        "id": 7,
+        "modelo": "Flash de estudio 200W",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 74.99,
+        "foto":  "./img/iluminacion/flashestudio.jpg"
+      },
+      {
+        "id": 8,
+        "modelo": "Neewer NW625",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. dolore architecto!",
+        "precio": 1441.98,
+        "foto":  "./img/iluminacion/neewer625.jpg"
+      }
+
+
+    ]
+}
